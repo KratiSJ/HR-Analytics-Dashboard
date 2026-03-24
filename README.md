@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 Comprehensive HR Analytics Dashboard analyzing employee attrition, workforce trends, and key HR metrics to generate actionable insights and support data-driven decision-making.
 
+## 📊 Dashboard Preview
+![Dashboard Preview]()
+
 ## 📊 Key Insights
 - Total Employees: 1,470  
 - Active Employees: 1,233  
