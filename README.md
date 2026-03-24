@@ -48,3 +48,9 @@ Comprehensive HR Analytics Dashboard analyzing employee attrition, workforce tre
 
 ## 📌 Conclusion
 This project highlights key workforce challenges and provides data-driven insights to improve employee retention and organizational performance.
+This project was developed with the guidance of the Skill Course program, which helped in understanding real-world data analysis workflows, dashboard creation, and business problem-solving techniques. The course provided structured learning and practical exposure, enabling the successful completion of this end-to-end HR analytics project.
+Overall, this project demonstrates the application of analytical skills, visualization techniques, and data-driven decision-making in solving real business problems.
+
+## Fallow :
+Skill Course By Satish Dhawale
+https://skillcourse.in
