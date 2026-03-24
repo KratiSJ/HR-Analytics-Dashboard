@@ -4,7 +4,7 @@
 Comprehensive HR Analytics Dashboard analyzing employee attrition, workforce trends, and key HR metrics to generate actionable insights and support data-driven decision-making.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/KratiSJ/HR-Analytics-Dashboard/blob/main/Dashboard%20Image.PNG)
 
 ## 📊 Key Insights
 - Total Employees: 1,470  
