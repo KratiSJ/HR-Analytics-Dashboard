@@ -26,7 +26,7 @@ Comprehensive HR Analytics Dashboard analyzing employee attrition, workforce tre
 - Job Satisfaction Insights  
 
 ## 💡 Key Findings
-- Attrition is highest in the Sales department  
+- Attrition is highest in the R&D department  
 - Employees aged 25–34 are most likely to leave  
 - Life Sciences and Medical backgrounds show higher attrition  
 - Male employees show higher attrition compared to females  
